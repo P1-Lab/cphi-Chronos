@@ -1,5 +1,33 @@
 # cphi-Chronos
-The cphi-Chronos is a self-contained, air-gapped wrist instrument for lunar and tidal prediction. It bridges mechanical engineering and low-power digital computation to serve as a deterministic "Reference-Grade Instrument". No GPS or network required.
+The cphi-Chronos is a self-contained, air-gapped wrist instrument for lunar and tidal prediction. It bridges mechanical engineering and low-power digital computation to serve as a deterministic "Reference-Grade Instrument". No GPS or network required.<P>
+<div style="font-family: sans-serif; max-width: 600px; margin: 20px 0;">
+  <table style="width: 100%; border-collapse: collapse; text-align: left;">
+    <thead>
+      <tr style="border-bottom: 2px solid #333;">
+        <th style="padding: 10px; color: #666; font-size: 0.85rem; text-transform: uppercase;">Subsystem</th>
+        <th style="padding: 10px; color: #666; font-size: 0.85rem; text-transform: uppercase;">Status</th>
+      </tr>
+    </thead>
+    <tbody style="font-size: 0.95rem;">
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 10px; font-weight: bold;">Mechanical Core</td>
+        <td style="padding: 12px 10px; color: #d97706;">Specification Defined / Seeking CAD</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 10px; font-weight: bold;">Tide Engine</td>
+        <td style="padding: 12px 10px; color: #059669;">Functional (C++)</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 10px; font-weight: bold;">Logic Board</td>
+        <td style="padding: 12px 10px; color: #d97706;">Schematic Draft / Seeking PCB Layout</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 10px; font-weight: bold;">Case Design</td>
+        <td style="padding: 12px 10px; color: #6b7280;">Conceptual (Dimensions Set)</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <div>
   <h1>cphi-Chronos: Model 001</h1>
