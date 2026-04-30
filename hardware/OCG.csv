@@ -1,0 +1,9 @@
+Plaintext
+Component,Prototype,Batch_100,Notes
+NH35 Movement,35,28,Seiko
+Titanium Case,180,65,CNC Grade 2
+Sapphire Crystal,25,12,Domed AR
+E-Ink Module,15,9.5,1.02" SPI
+PCB Assembly,45,18,ESP32-C3
+Battery,2,1.2,CR2032
+TOTAL,302,133.7,
