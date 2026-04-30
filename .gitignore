@@ -1,0 +1,34 @@
+# --- Firmware Build Artifacts ---
+.pio/
+.elf
+.bin
+.o
+.d
+build/
+dist/
+
+# --- Python / Validation ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+tide_validation_plot.png
+power_discharge_model.png
+
+# --- Hardware / CAD ---
+*.bak
+*.lck
+*-backups/
+
+# --- Environment & OS ---
+.DS_Store
+Thumbs.db
+.env
+.vscode/
+.idea/
+
+# --- Project Specific ---
+# Keep your actual config.h, but ignore local overrides if necessary
+# config_local.h
